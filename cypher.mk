@@ -9,7 +9,7 @@ $(call inherit-product, device/xiaomi/libra/device.mk)
 $(call inherit-product, vendor/cypher/config/common_full_phone.mk)
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_NAME := cypher_libra
+PRODUCT_NAME := aoscp_libra
 PRODUCT_DEVICE := libra
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Mi-4c

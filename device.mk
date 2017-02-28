@@ -153,10 +153,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
 PRODUCT_PACKAGES += \
     Gello
 
-# LibraDoze
-PRODUCT_PACKAGES += \
-    LibraDoze
-
 PRODUCT_PACKAGES += \
     charger_res_images \
     libhealthd.qcom
